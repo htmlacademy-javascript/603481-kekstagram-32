@@ -1,7 +1,8 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Максим Валерьевич](https://up.htmlacademy.ru/javascript/32/user/603481).
-* Наставник: `Неизвестно`.
+* Наставник: [Давид Чачанов](https://htmlacademy.ru/profile/id2355549).
+* Сайт: [Личный проект «Кекстаграм»](https://ekburalec.github.io/kekstagram/).
 
 ---
 
