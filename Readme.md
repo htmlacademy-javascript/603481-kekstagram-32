@@ -2,7 +2,7 @@
 
 * Студент: [Максим Валерьевич](https://up.htmlacademy.ru/javascript/32/user/603481).
 * Наставник: [Давид Чачанов](https://htmlacademy.ru/profile/id2355549).
-
+* Сайт: [Личный проект «Кекстаграм»](https://ekburalec.github.io/kekstagram/).
 ---
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
